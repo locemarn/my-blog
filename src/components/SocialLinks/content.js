@@ -21,4 +21,4 @@ const links = [
   },
 ]
 
-export default Links
+export default links
